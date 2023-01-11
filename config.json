@@ -1,0 +1,7 @@
+{
+  "results": 25,
+  "method": "ance",
+  "fusion": "borda",
+  "expansion": 0,
+  "max_length": 20
+}

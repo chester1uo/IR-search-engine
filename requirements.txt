@@ -1,0 +1,5 @@
+torch
+numpy
+tqdm
+nltk
+pyserini~=0.17.1
